@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--9Q0EBJhnpIt--SrSJgvJQ" name=",_vku9APsgEeiOY5TxRmxENA" guid="--9Q0EBJhnpIt--SrSJgvJQ">
+  <sections xmi:id="_RLshAPsrEeiOY5TxRmxENA" name="The one-week iteration" guid="_RLshAPsrEeiOY5TxRmxENA">
+    <sectionDescription>The planning session on Monday morning is used to set the team's priorities for the week. Since a week is not a long time,&#xD;
+the team must divide their work into fairly small pieces in order to guarantee that they can develop, test and integrate&#xD;
+the pieces by Friday afternoon</sectionDescription>
+  </sections>
+  <sections xmi:id="_xB9vAPsrEeiOY5TxRmxENA" name="The two-month iteration" guid="_xB9vAPsrEeiOY5TxRmxENA">
+    <sectionDescription>During the iteration, the same daily activities occur as for the one week iteration: daily check-in or stand-up,&#xD;
+development episodes, integration-build-and-test, visits with the user and the sponsor, and so on</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

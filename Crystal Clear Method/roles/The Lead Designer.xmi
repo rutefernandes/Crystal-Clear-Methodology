@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KkyKVkQpVRXppO7nINOnOg" name="new_role,_jLZkoPsnEeiOY5TxRmxENA" guid="-KkyKVkQpVRXppO7nINOnOg">
+  <mainDescription>The person given the assignment of Lead Designer has a complicated job description, which is not normally spelled out in&#xD;
+advance. This person is often the best designer on the team, a person who could, in principle, design the entire system.&#xD;
+This person is also supposed to train the younger members of the team, talk with the Executive Sponsor and end users, build&#xD;
+a project plan, and manage the development of the project while also designing the most difficult part of the system. It is&#xD;
+an impossible job description, except that it is carried out successfully by many (overworked) people around the world. The&#xD;
+best thing the Executive Sponsor can do for the Lead Designer is to provide a second expert developer. This second expert&#xD;
+developer should be the one who handles the most difficult design tasks, because this second expert developer is not so&#xD;
+likely to get caught up in meetings about users, plans, status, interfaces and so on</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

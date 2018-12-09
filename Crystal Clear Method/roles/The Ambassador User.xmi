@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ycJS1NSKRwPmGjpWXyRvFA" name="new_role,_pdAsoPsnEeiOY5TxRmxENA" guid="-ycJS1NSKRwPmGjpWXyRvFA">
+  <mainDescription>The system will be better suited to what the users need if the developers have access to an expert on system usage. The&#xD;
+value the system brings to the organization is very sensitive to the information the developers get about the usage&#xD;
+context. That means it is important that the team has easy access to proper usage experts. How much of that user's time&#xD;
+does the team need? It would be nice to have the expert user available to the team the whole time, of course. That is&#xD;
+rarely practical. Some methodologies suggest or require the user expert be present 50% of the time. That would also be&#xD;
+wonderful, of course, but is usually also impractical. My experience is that if the team can phone the Ambassador User&#xD;
+periodically during the week to ask questions, and gets a few hours (even as low as two hours) of dedicated time each week,&#xD;
+they can work through their questions, get good requirements in</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

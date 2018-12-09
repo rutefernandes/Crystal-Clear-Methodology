@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dFXsp6-xpXxftuflK8x8Ig" name=",_6gIE0PsmEeiOY5TxRmxENA" guid="-dFXsp6-xpXxftuflK8x8Ig">
+  <sections xmi:id="_CBlEEPsnEeiOY5TxRmxENA" name="Build the core of the team" guid="_CBlEEPsnEeiOY5TxRmxENA">
+    <sectionDescription>A project of the type that will use Crystal Clear often starts with an Executive Sponsor and a Lead Designer, and&#xD;
+eventually a key user. Normally, two to five other people are added to the project, with a various mix of skills,&#xD;
+experience and ability</sectionDescription>
+  </sections>
+  <sections xmi:id="_ETli8PsnEeiOY5TxRmxENA" name="Perform the Exploratory 360° " guid="_ETli8PsnEeiOY5TxRmxENA">
+    <sectionDescription>At an early point in the project, the team – including the executive sponsor – does a once-around check of the key&#xD;
+issues.&amp;nbsp; In this check, they make sure the project won't founder on the business value, the requirements, the domain&#xD;
+model, the technology to be used, the project plan, the team makeup, or the methodology or conventions to be used.</sectionDescription>
+  </sections>
+  <sections xmi:id="_HkeE4PsnEeiOY5TxRmxENA" name="Shape and fine-tune the methodology conventions" guid="_HkeE4PsnEeiOY5TxRmxENA">
+    <sectionDescription>A&amp;nbsp;methodology is nothing more than the conventions the team agrees to adopt. Since the set of conventions will be&#xD;
+revisited twice per iteration or delivery cycle, it would, in principle be possible to start from any methodology and&#xD;
+simply tune it over time to suit the team.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Ifqh0PsnEeiOY5TxRmxENA" name="Build the initial project plan" guid="_Ifqh0PsnEeiOY5TxRmxENA">
+    <sectionDescription>&lt;p>&#xD;
+    Techniques that provides an initial project plan, and is fast enough that it can be used on a regular basis to track&#xD;
+    changes in the project's situation and make an updated project plan.&#xD;
+&lt;/p>&#xD;
+In this project we're using&amp;nbsp;&quot;Blitz Planning&quot; (described on work products)&lt;br /></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

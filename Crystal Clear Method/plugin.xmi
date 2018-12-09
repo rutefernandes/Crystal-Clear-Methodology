@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Cl-O0fsgEeiOYpTxRmxENA" guid="_Cl-O0fsgEeiOYpTxRmxENA">
+    <subManagers xmi:id="_s7zyIPtQEeiOY5TxRmxENA" href="uma://_s7GngPtQEeiOY5TxRmxENA#_s7zyIPtQEeiOY5TxRmxENA"/>
+    <resourceDescriptors xmi:id="_Rq7-kPsnEeiOY5TxRmxENA" id="-dFXsp6-xpXxftuflK8x8Ig" uri="tasks/Chartering.xmi"/>
+    <resourceDescriptors xmi:id="_ghAa8PsnEeiOY5TxRmxENA" id="-VBuhSMrulynAJPWzaCdp1A" uri="roles/The%20Executive%20Sponsor.xmi"/>
+    <resourceDescriptors xmi:id="_nwReAPsnEeiOY5TxRmxENA" id="-KkyKVkQpVRXppO7nINOnOg" uri="roles/The%20Lead%20Designer.xmi"/>
+    <resourceDescriptors xmi:id="_vG9-wPsnEeiOY5TxRmxENA" id="-ycJS1NSKRwPmGjpWXyRvFA" uri="roles/The%20Ambassador%20User.xmi"/>
+    <resourceDescriptors xmi:id="_8CQwgPsnEeiOY5TxRmxENA" id="-zdHascUB7fak5hCHVnc44A" uri="roles/Team%20as%20a%20Group.xmi"/>
+    <resourceDescriptors xmi:id="_UkiXAPspEeiOY5TxRmxENA" id="-qvXZelcRfQspqJmkbTUUcA" uri="tasks/Delivery%20cycles.xmi"/>
+    <resourceDescriptors xmi:id="_LlnewPsqEeiOY5TxRmxENA" id="-F895CEMjVXwBuf8mCHuziQ" uri="tasks/Completion%20ritual.xmi"/>
+    <resourceDescriptors xmi:id="_YNtyQPsrEeiOY5TxRmxENA" id="--9Q0EBJhnpIt--SrSJgvJQ" uri="tasks/Iteration%20planning.xmi"/>
+    <resourceDescriptors xmi:id="_hW-8gPsuEeiOY5TxRmxENA" id="-9YR_viZh-IYhT5rapqFYEQ" uri="workproducts/Mission%20Statement%20with%20Tradeoff%20Priorities.xmi"/>
+    <resourceDescriptors xmi:id="_Eu0z0PsvEeiOY5TxRmxENA" id="-gEgvUJA0iF20D4ckuDpTkA" uri="workproducts/Team%20Structure%20and%20Conventions.xmi"/>
+    <resourceDescriptors xmi:id="_1avrIPtBEeiOY5TxRmxENA" id="--2k_hh3Kbkgit4A6W2MQaw" uri="tasks/A%20recalibration%20of%20the%20release%20plan.xmi"/>
+    <resourceDescriptors xmi:id="_s7x88PtQEeiOY5TxRmxENA" id="_s7GngPtQEeiOY5TxRmxENA" uri="deliveryprocesses/CrystalClear/model.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_Cl-OwPsgEeiOYpTxRmxENA" name="Crystal Clear Method" guid="_Cl-OwPsgEeiOYpTxRmxENA" presentationName="Crystal Clear Method" briefDescription="Crystal Clear is a lightweight, flexible methodology created by Alistair Cockburn in 2004. It is designed for small teams of 6-8 people to develop non-critical business applications. Like all flexible methodologies for creating applications, Crystal Clear relies more on people than on processes and artifacts.&#xD;&#xA;&#xD;&#xA;Crystal Clear uses nested cyclic processes of various lengths: the development episode, the&#xD;&#xA;iteration, the delivery period, and the full project. What people do at any moment depends on&#xD;&#xA;where they are in each of the cycles. This chapter linearizes the cycles to the extent possible, and&#xD;&#xA;points out some of their interactions." authors="Alistair Cockburn&#xD;&#xA;Adaptado por Rute Fernandes&#xD;&#xA;">
+    <methodElementProperty xmi:id="_Cl-O0_sgEeiOYpTxRmxENA" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_EF3tgPsbEeiOY5TxRmxENA" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Cl-OwfsgEeiOYpTxRmxENA" name="Content" guid="_Cl-OwfsgEeiOYpTxRmxENA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Cl-OwvsgEeiOYpTxRmxENA" name="Categories" guid="_Cl-OwvsgEeiOYpTxRmxENA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Cl-Ow_sgEeiOYpTxRmxENA" name="Domains" guid="_Cl-Ow_sgEeiOYpTxRmxENA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Cl-OxPsgEeiOYpTxRmxENA" name="Disciplines" guid="_Cl-OxPsgEeiOYpTxRmxENA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_ZZnk4PtQEeiOY5TxRmxENA" name="new_discipline" guid="_ZZnk4PtQEeiOY5TxRmxENA" presentationName="New Discipline"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Cl-OxfsgEeiOYpTxRmxENA" name="RoleSets" guid="_Cl-OxfsgEeiOYpTxRmxENA">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_L_PFMPsVEeiOY5TxRmxENA" name="new_role_set" guid="_L_PFMPsVEeiOY5TxRmxENA" presentationName="New Role Set"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Cl-OxvsgEeiOYpTxRmxENA" name="WP Types" guid="_Cl-OxvsgEeiOYpTxRmxENA">
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_sGgQsPsiEeiOY5TxRmxENA" name="The Mission Statement with Tradeoff Priorities" guid="_sGgQsPsiEeiOY5TxRmxENA" presentationName="The Mission Statement with Tradeoff Priorities">
+            <methodElementProperty xmi:id="_yRdXEPsiEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Cl-Ox_sgEeiOYpTxRmxENA" name="Tools" guid="_Cl-Ox_sgEeiOYpTxRmxENA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Cl-OyPsgEeiOYpTxRmxENA" name="StandardCategories" guid="_Cl-OyPsgEeiOYpTxRmxENA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Cl-OyfsgEeiOYpTxRmxENA" name="CustomCategories" guid="_Cl-OyfsgEeiOYpTxRmxENA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Cl-OyvsgEeiOYpTxRmxENA" name="Hidden" guid="_Cl-OyvsgEeiOYpTxRmxENA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Cl-Oy_sgEeiOYpTxRmxENA" name="Custom Categories" guid="_Cl-Oy_sgEeiOYpTxRmxENA" categorizedElements="_cbFKwPtQEeiOY5TxRmxENA"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_cbFKwPtQEeiOY5TxRmxENA" name="CrystalClear" guid="_cbFKwPtQEeiOY5TxRmxENA" presentationName="new_custom_category">
+            <methodElementProperty xmi:id="_5IE6sPtQEeiOY5TxRmxENA" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_s7GngPtQEeiOY5TxRmxENA#_s7GngftQEeiOY5TxRmxENA"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Cl-OzPsgEeiOYpTxRmxENA" name="CoreContent" guid="_Cl-OzPsgEeiOYpTxRmxENA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ghIa8PsgEeiOYpTxRmxENA" name="The Iteration Cycle" guid="_ghIa8PsgEeiOYpTxRmxENA" presentationName="The Iteration Cycle" briefDescription="With three parts completing the cycle—iteration planning, daily and integration cycle activities, and a reflection workshop—the length and format of this period is not consistent. It is also the time where the team may make changes to the requirements, functionality or capabilities of its environment.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Within the iteration period, the team will find itself adding to its requirements set, trying out user interface designs, extending the system's infrastructure, adding functionality, showing the system to the user(s), adding tests, and adding to the automation capabilities of their working environment">
+          <methodElementProperty xmi:id="_ghIa8fsgEeiOYpTxRmxENA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_312tYPsaEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_NVOAsPsVEeiOY5TxRmxENA" name="Sponsor" guid="_NVOAsPsVEeiOY5TxRmxENA" presentationName="Sponsor" briefDescription="Realiza a comunicação entre equipe e cliente">
+            <methodElementProperty xmi:id="_ELjmIPsYEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_woAjcPsWEeiOY5TxRmxENA" name="Coordinator" guid="_woAjcPsWEeiOY5TxRmxENA" presentationName="Coordinator">
+            <methodElementProperty xmi:id="_DoGTwPsYEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_S2HLgPsXEeiOY5TxRmxENA" name="Designer-Programmers" guid="_S2HLgPsXEeiOY5TxRmxENA" presentationName="New Role" responsibleFor="_NadQwPs7EeiOY5TxRmxENA _t3R94Ps6EeiOY5TxRmxENA _E7LXUPs7EeiOY5TxRmxENA">
+            <methodElementProperty xmi:id="_DQqrMPsYEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_V2AEEPsXEeiOY5TxRmxENA" name="The Team" guid="_V2AEEPsXEeiOY5TxRmxENA" presentationName="The Team">
+            <methodElementProperty xmi:id="_Crru0PsYEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Zq2OsPsXEeiOY5TxRmxENA" name="Business Expert" guid="_Zq2OsPsXEeiOY5TxRmxENA" presentationName="Business Expert" responsibleFor="_mAZWoPs5EeiOY5TxRmxENA _rTc2kPs3EeiOY5TxRmxENA">
+            <methodElementProperty xmi:id="_E1UU0PsYEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_hwbOsPsXEeiOY5TxRmxENA" name="Ambassador User" guid="_hwbOsPsXEeiOY5TxRmxENA" presentationName="Ambassador User" responsibleFor="_ZFGIYPs6EeiOY5TxRmxENA">
+            <methodElementProperty xmi:id="_FWoSIPsYEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_lX-kMPsXEeiOY5TxRmxENA" name="Lead Designer" guid="_lX-kMPsXEeiOY5TxRmxENA" presentationName="Lead Designer">
+            <methodElementProperty xmi:id="_Fu1WwPsYEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_p2L04PsXEeiOY5TxRmxENA" name="Tester" guid="_p2L04PsXEeiOY5TxRmxENA" presentationName="Tester">
+            <methodElementProperty xmi:id="_GA9okPsYEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_rh_2cPsXEeiOY5TxRmxENA" name="Writer" guid="_rh_2cPsXEeiOY5TxRmxENA" presentationName="Writer" responsibleFor="_N85aAPs8EeiOY5TxRmxENA _MSaOIPs8EeiOY5TxRmxENA">
+            <methodElementProperty xmi:id="_GQYkoPsYEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vku9APsgEeiOY5TxRmxENA" name="Iteration planning" guid="_vku9APsgEeiOY5TxRmxENA" presentationName="Iteration planning">
+            <methodElementProperty xmi:id="_Az-3QPshEeiOY5TxRmxENA" name="me_edited" value="true"/>
+            <presentation xmi:id="--9Q0EBJhnpIt--SrSJgvJQ" href="uma://--9Q0EBJhnpIt--SrSJgvJQ#--9Q0EBJhnpIt--SrSJgvJQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_zZZhcPsgEeiOY5TxRmxENA" name="Daily and integration cycle activities" guid="_zZZhcPsgEeiOY5TxRmxENA" presentationName="Daily and integration cycle activities">
+            <methodElementProperty xmi:id="_AnodUPshEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1re40PsgEeiOY5TxRmxENA" name="Completion ritual (reflection workshop and celebration)" guid="_1re40PsgEeiOY5TxRmxENA" presentationName=" Completion ritual (reflection workshop and celebration)">
+            <methodElementProperty xmi:id="_AXr80PshEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_F_OMEPssEeiOY5TxRmxENA" name="stand-up_meeting_daily" guid="_F_OMEPssEeiOY5TxRmxENA" presentationName="Stand-up meeting (daily)">
+            <methodElementProperty xmi:id="_F_bAYPssEeiOY5TxRmxENA" name="PUBLISH_CATEGORY" value="true"/>
+            <methodElementProperty xmi:id="_J_82kPssEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_0gCz4Ps1EeiOY5TxRmxENA" name="Project Status" guid="_0gCz4Ps1EeiOY5TxRmxENA" presentationName="Project Status" briefDescription="The Project Status is a listing of the state of the project with respect to the Release&#xD;&#xA;Plan. It is often just that with the status marked. The status information might include&#xD;&#xA;the currently predicted due date, or the originally scheduled completion date, foreseen&#xD;&#xA;completion date, and foreseen risks. ">
+            <methodElementProperty xmi:id="_117BsPs1EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_wrhj8Ps2EeiOY5TxRmxENA" name="Risk List" guid="_wrhj8Ps2EeiOY5TxRmxENA" presentationName="Risk List" briefDescription="The risk list consists of the top risks facing the project, how significant and likely&#xD;&#xA;each is, the damage it can cause, and what prevention or response is possible. I like to&#xD;&#xA;track whether they have grown or shrunk recently">
+            <methodElementProperty xmi:id="_xnkVcPs2EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Ax-qIPs3EeiOY5TxRmxENA" name="Iteration Plan" guid="_Ax-qIPs3EeiOY5TxRmxENA" presentationName="Iteration Plan " briefDescription="The fine-grained iteration plan lists what is being developed in this iteration. Each&#xD;&#xA;item may be something that could take from a day to two weeks to develop,&#xD;&#xA;depending on how long the iteration is. The iteration plan may show dependencies&#xD;&#xA;between work items (if, for example, it was produced Blitz Planning), it may treat all&#xD;&#xA;work items as being independent (if, for example, it was produced by XP's planning&#xD;&#xA;game or is simply a list of product features), or it could be a marking of selected&#xD;&#xA;sentences in the use cases.">
+            <methodElementProperty xmi:id="_CBvo4Ps3EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Ikm48Ps3EeiOY5TxRmxENA" name="Iteration Status" guid="_Ikm48Ps3EeiOY5TxRmxENA" presentationName="Iteration Status" briefDescription="The iteration status lists the state of the iteration with respect to the plan. It is often&#xD;&#xA;written on an information radiator. It is usually just the iteration plan items with their&#xD;&#xA;current work state, usually marked either started or done, with nothing in between">
+            <methodElementProperty xmi:id="_OxkKcPs3EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_rTc2kPs3EeiOY5TxRmxENA" name="Actor-goal list" guid="_rTc2kPs3EeiOY5TxRmxENA" presentationName="Actor-goal list" briefDescription="The actor-goal list is a two-column table or use case diagram. In two-column form,&#xD;&#xA;the left column names the person, organization or computer system that will drive the&#xD;&#xA;system, calling upon its service promises. The right column names that service&#xD;&#xA;promise, which is the actor's goal with respect to the system, what he/she/it wants to&#xD;&#xA;accomplish using the system. The goal, a short verb phrase, becomes the name of the&#xD;&#xA;use case describing the details of the function">
+            <methodElementProperty xmi:id="_tjauEPs3EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_mAZWoPs5EeiOY5TxRmxENA" name="Requirements File" guid="_mAZWoPs5EeiOY5TxRmxENA" presentationName="Requirements File" briefDescription="The requirements file is intended to hold in place&#xD;&#xA;requirements information that might otherwise be forgotten, as records of decisions&#xD;&#xA;The requirements file is a collection of information indicating&#xD;&#xA;what is to be built,&#xD;&#xA;who is intended to use it,&#xD;&#xA;how it provides value, and&#xD;&#xA;what major constraints affect the design&#xD;&#xA;that the team needs to remember, giving a context to those decisions.&#xD;&#xA;">
+            <methodElementProperty xmi:id="_qG-xgPs5EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ACyhgPs6EeiOY5TxRmxENA" name="Use Cases" guid="_ACyhgPs6EeiOY5TxRmxENA" presentationName="Use Cases">
+            <methodElementProperty xmi:id="_C6Zn0Ps6EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_yiqScPs7EeiOY5TxRmxENA" name="Design Notes" guid="_yiqScPs7EeiOY5TxRmxENA" presentationName="Design Notes" briefDescription="Crystal Clear requires &quot;design sketches and notes, as needed.&quot; This is an openended&#xD;&#xA;phrase, allowing teams to write technical memos, create UML diagrams, create&#xD;&#xA;wikiwiki webs describing their design (wikiURL), take photographs of their&#xD;&#xA;whiteboards, or videotape mini-lectures about the design.">
+            <methodElementProperty xmi:id="_zj330Ps7EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_70KTAPs7EeiOY5TxRmxENA" name="unit test" guid="_70KTAPs7EeiOY5TxRmxENA" presentationName="unit test">
+            <methodElementProperty xmi:id="_9C7MMPs7EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_A7ojIPs8EeiOY5TxRmxENA" name="Bug Report" guid="_A7ojIPs8EeiOY5TxRmxENA" presentationName="Bug Report" briefDescription="A bug report is a note logging an error, saying what circumstances caused the error.">
+            <methodElementProperty xmi:id="_BrQCMPs8EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_g5VHQPsaEeiOY5TxRmxENA" name="The Integration Cycle" guid="_g5VHQPsaEeiOY5TxRmxENA" briefDescription="There is no prescribed length for the integration cycle. For some teams, the integration cycle may only take half an hour while for others, it may be for multiple days. Some may do it more than once a week while others may carry out continuous integration or after every design episode.">
+          <methodElementProperty xmi:id="_g5VHQfsaEeiOY5TxRmxENA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_CWT0YPsbEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_qSnssPssEeiOY5TxRmxENA" name="Configuration Management" guid="_qSnssPssEeiOY5TxRmxENA" presentationName="Configuration Management" briefDescription="The configuration management system allows people to check in their work asynchronously, back changes out, wrap up a particular configuration for release, and roll back to that configuration later on when trouble arises. It lets the developers develop their code both separately and together. It is steadily cited by teams as their most critical non-compiler tool.">
+            <methodElementProperty xmi:id="_q4QwYPssEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ty25QPssEeiOY5TxRmxENA" name="Automated Tests" guid="_ty25QPssEeiOY5TxRmxENA" presentationName="Automated Tests">
+            <methodElementProperty xmi:id="_ujPNUPssEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hjJgUPsaEeiOY5TxRmxENA" name="The Project Cycle" guid="_hjJgUPsaEeiOY5TxRmxENA" briefDescription="Composed of three parts which include chartering, a series of two or more delivery cycles and the project wrap up, this is the sequence where the core team is formed, the methodology to be used is shaped and fine-tuned, and the initial project plan is built.">
+          <methodElementProperty xmi:id="_hjJgUfsaEeiOY5TxRmxENA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_5X2EkPsaEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-AimoPsdEeiOY5TxRmxENA" name="Delivery cycles" guid="_-AimoPsdEeiOY5TxRmxENA" presentationName="Delivery cycles" briefDescription="A series of two or more delivery cycles,">
+            <methodElementProperty xmi:id="_Y2bZEPsgEeiOY5TxRmxENA" name="me_edited" value="true"/>
+            <presentation xmi:id="-qvXZelcRfQspqJmkbTUUcA" href="uma://-qvXZelcRfQspqJmkbTUUcA#-qvXZelcRfQspqJmkbTUUcA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6gIE0PsmEeiOY5TxRmxENA" name="Chartering" guid="_6gIE0PsmEeiOY5TxRmxENA" presentationName="Chartering" performedBy="_pdAsoPsnEeiOY5TxRmxENA _Z7L9gPsnEeiOY5TxRmxENA _jLZkoPsnEeiOY5TxRmxENA _54dLYPsnEeiOY5TxRmxENA" output="_ZhT9kPsqEeiOY5TxRmxENA _TcpscPsqEeiOY5TxRmxENA _wcul4PspEeiOY5TxRmxENA _FGNOgPsuEeiOY5TxRmxENA _8-56wPsuEeiOY5TxRmxENA _hEuYwPs3EeiOY5TxRmxENA _R5SecPs5EeiOY5TxRmxENA" optionalInput="_o9DkwPsoEeiOY5TxRmxENA">
+            <methodElementProperty xmi:id="_8S8GQPsmEeiOY5TxRmxENA" name="me_edited" value="true"/>
+            <presentation xmi:id="-dFXsp6-xpXxftuflK8x8Ig" href="uma://-dFXsp6-xpXxftuflK8x8Ig#-dFXsp6-xpXxftuflK8x8Ig"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Z7L9gPsnEeiOY5TxRmxENA" name="The Executive Sponsor" guid="_Z7L9gPsnEeiOY5TxRmxENA" presentationName="The Executive Sponsor" responsibleFor="_FGNOgPsuEeiOY5TxRmxENA">
+            <methodElementProperty xmi:id="_cSHYoPsnEeiOY5TxRmxENA" name="me_edited" value="true"/>
+            <presentation xmi:id="-VBuhSMrulynAJPWzaCdp1A" href="uma://-VBuhSMrulynAJPWzaCdp1A#-VBuhSMrulynAJPWzaCdp1A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_jLZkoPsnEeiOY5TxRmxENA" name="The Lead Designer" guid="_jLZkoPsnEeiOY5TxRmxENA" presentationName="The Lead Designer" briefDescription="The person given the assignment of Lead Designer has a complicated job description,&#xD;&#xA;which is not normally spelled out in advance. This person is often the best designer on&#xD;&#xA;the team, a person who could, in principle, design the entire system. This person is also&#xD;&#xA;supposed to train the younger members of the team, talk with the Executive Sponsor&#xD;&#xA;and end users, build a project plan, and manage the development of the project while&#xD;&#xA;also designing the most difficult part of the system. It is an impossible job description,&#xD;&#xA;except that it is carried out successfully by many (overworked) people around the&#xD;&#xA;world">
+            <methodElementProperty xmi:id="_kavFkPsnEeiOY5TxRmxENA" name="me_edited" value="true"/>
+            <presentation xmi:id="-KkyKVkQpVRXppO7nINOnOg" href="uma://-KkyKVkQpVRXppO7nINOnOg#-KkyKVkQpVRXppO7nINOnOg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_pdAsoPsnEeiOY5TxRmxENA" name="The Ambassador User" guid="_pdAsoPsnEeiOY5TxRmxENA" presentationName="The Ambassador User" briefDescription="Expert user available to the team" responsibleFor="_rTc2kPs3EeiOY5TxRmxENA">
+            <methodElementProperty xmi:id="_qqqykPsnEeiOY5TxRmxENA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ycJS1NSKRwPmGjpWXyRvFA" href="uma://-ycJS1NSKRwPmGjpWXyRvFA#-ycJS1NSKRwPmGjpWXyRvFA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_54dLYPsnEeiOY5TxRmxENA" name="Team as a Group" guid="_54dLYPsnEeiOY5TxRmxENA" presentationName="Team as a Group" briefDescription="Crystal Clear only names the above three roles specifically. There will be other&#xD;&#xA;people on the project. How they divide up the rest of the project roles is up to them. In&#xD;&#xA;particular, someone, or several people, will have to capture the requirements in use&#xD;&#xA;case or user story form. Also, someone will have to act as coordinator. Perhaps the&#xD;&#xA;Lead Designer can off-load this onto someone else who has good communications skill." responsibleFor="_8-56wPsuEeiOY5TxRmxENA _5sm6APsiEeiOY5TxRmxENA">
+            <methodElementProperty xmi:id="_6611cPsnEeiOY5TxRmxENA" name="me_edited" value="true"/>
+            <presentation xmi:id="-zdHascUB7fak5hCHVnc44A" href="uma://-zdHascUB7fak5hCHVnc44A#-zdHascUB7fak5hCHVnc44A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_o9DkwPsoEeiOY5TxRmxENA" name="Blitz Planning Manual" guid="_o9DkwPsoEeiOY5TxRmxENA" presentationName="Blitz Planning Manual" briefDescription="The planning session is an opportunity for the executive sponsor, ambassador user&#xD;&#xA;and developers to contribute together to build the project map and timeline. As&#xD;&#xA;always, there are several ways to work.">
+            <methodElementProperty xmi:id="_qPljoPsoEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mpslkPspEeiOY5TxRmxENA" name="Completion ritual" guid="_mpslkPspEeiOY5TxRmxENA" presentationName="Completion ritual" briefDescription="The project wrap up.">
+            <methodElementProperty xmi:id="_qoWMcPspEeiOY5TxRmxENA" name="me_edited" value="true"/>
+            <presentation xmi:id="-F895CEMjVXwBuf8mCHuziQ" href="uma://-F895CEMjVXwBuf8mCHuziQ#-F895CEMjVXwBuf8mCHuziQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_wcul4PspEeiOY5TxRmxENA" name="Delphi Estimation using Expertise Rankings instructions" guid="_wcul4PspEeiOY5TxRmxENA" presentationName="Delphi Estimation using Expertise Rankings instructions" briefDescription="Estimate the length of time it will take to develop the software">
+            <methodElementProperty xmi:id="_x6x4QPspEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_TcpscPsqEeiOY5TxRmxENA" name="Vote on the project" guid="_TcpscPsqEeiOY5TxRmxENA" presentationName="Vote on the project" briefDescription="Go or no-go vote on the project">
+            <methodElementProperty xmi:id="_UVUZ0PsqEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_ZhT9kPsqEeiOY5TxRmxENA" name="Draft charter" guid="_ZhT9kPsqEeiOY5TxRmxENA" presentationName="Draft charter" briefDescription="Group of people with a draft charter and an idea of what they are doing">
+            <methodElementProperty xmi:id="_aTwuMPsqEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_FGNOgPsuEeiOY5TxRmxENA" name="Mission Statement with Tradeoff Priorities" guid="_FGNOgPsuEeiOY5TxRmxENA" presentationName="Mission Statement with Tradeoff Priorities" briefDescription="A brief description, typically a paragraph to a page, of what is to be built, its purpose in a larger context, and the project's priorities in sequence, from the most critical to those that can be sacrificed&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;The priorities might be chosen from: hitting a particular delivery date, cost, ease of use, ease of learning, speed in use, correctness, performance, ease of maintenance, design flexibility, legal liability protection (you may come up with other choices for your project). The mission statement makes clear to the team what can be sacrificed if necessary to preserve the top priorities">
+            <methodElementProperty xmi:id="_GIej0PsuEeiOY5TxRmxENA" name="me_edited" value="true"/>
+            <presentation xmi:id="-9YR_viZh-IYhT5rapqFYEQ" href="uma://-9YR_viZh-IYhT5rapqFYEQ#-9YR_viZh-IYhT5rapqFYEQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_8-56wPsuEeiOY5TxRmxENA" name="Team Structure and Conventions" guid="_8-56wPsuEeiOY5TxRmxENA" presentationName="Team Structure and Conventions" briefDescription="Team structure is an allocation of people to roles. Team conventions is a collection&#xD;&#xA;of rules, practices and conventions the team agrees to adopt.">
+            <methodElementProperty xmi:id="_99SOkPsuEeiOY5TxRmxENA" name="me_edited" value="true"/>
+            <presentation xmi:id="-gEgvUJA0iF20D4ckuDpTkA" href="uma://-gEgvUJA0iF20D4ckuDpTkA#-gEgvUJA0iF20D4ckuDpTkA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_ebcmMPszEeiOY5TxRmxENA" name="Coordinator" guid="_ebcmMPszEeiOY5TxRmxENA" presentationName="Coordinator" briefDescription="Usually is the Sponsor or Lead Designer who takes that role" responsibleFor="_xGJagPsiEeiOY5TxRmxENA _Td9BEPs3EeiOY5TxRmxENA _Ax-qIPs3EeiOY5TxRmxENA _Ikm48Ps3EeiOY5TxRmxENA _0gCz4Ps1EeiOY5TxRmxENA _wrhj8Ps2EeiOY5TxRmxENA _wMRHAPs0EeiOY5TxRmxENA">
+            <methodElementProperty xmi:id="_iDqqEPszEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_wMRHAPs0EeiOY5TxRmxENA" name="Project Map" guid="_wMRHAPs0EeiOY5TxRmxENA" presentationName="Project Map" briefDescription="The project map is a dependency diagram identifying the major work to be done&#xD;&#xA;and which ones depend on others (see the Blitz Planning technique). Its purpose is to&#xD;&#xA;show the structure of the problem and the sequence of attack. It contains no dates. That&#xD;&#xA;is partly because it is often drawn up before the team members and their capabilities&#xD;&#xA;are known, but more generally, to permit different staffing and timing strategies to be&#xD;&#xA;considered. It is intended to be viewed at one time, either on a conference room table&#xD;&#xA;or on a wall, using index cards as task markers. This limits the number of items that get&#xD;&#xA;put onto the map">
+            <methodElementProperty xmi:id="_xp00sPs1EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_hEuYwPs3EeiOY5TxRmxENA" name="Actor-goal list" guid="_hEuYwPs3EeiOY5TxRmxENA" presentationName="Actor-goal list" briefDescription="The actor-goal list is a two-column table or use case diagram. In two-column form,&#xD;&#xA;the left column names the person, organization or computer system that will drive the&#xD;&#xA;system, calling upon its service promises. The right column names that service&#xD;&#xA;promise, which is the actor's goal with respect to the system, what he/she/it wants to&#xD;&#xA;accomplish using the system. The goal, a short verb phrase, becomes the name of the&#xD;&#xA;use case describing the details of the function">
+            <methodElementProperty xmi:id="_hvmhwPs3EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_R5SecPs5EeiOY5TxRmxENA" name="Requirements File" guid="_R5SecPs5EeiOY5TxRmxENA" presentationName="Requirements File" briefDescription="The requirements file is intended to hold in place&#xD;&#xA;requirements information that might otherwise be forgotten, as records of decisions&#xD;&#xA;The requirements file is a collection of information indicating&#xD;&#xA;what is to be built,&#xD;&#xA;who is intended to use it,&#xD;&#xA;how it provides value, and&#xD;&#xA;what major constraints affect the design&#xD;&#xA;that the team needs to remember, giving a context to those decisions.&#xD;&#xA;">
+            <methodElementProperty xmi:id="_S-pkAPs5EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ZFGIYPs6EeiOY5TxRmxENA" name="User Role Model" guid="_ZFGIYPs6EeiOY5TxRmxENA" presentationName="User Role Model" briefDescription="A role model is a two-dimensional map showing user roles and their relationships.&#xD;&#xA;It highlights the focal roles, the ones the system should satisfy the most (see Essential&#xD;&#xA;Interaction Design on page 98). A user role is a name representing a high level goal that&#xD;&#xA;the user of the system might step into; similar roles cluster closely together and&#xD;&#xA;dissimilar roles appear farther apart. Relationship lines connect roles or clusters">
+            <methodElementProperty xmi:id="_bE8gQPs6EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_t3R94Ps6EeiOY5TxRmxENA" name="Screen Drafts" guid="_t3R94Ps6EeiOY5TxRmxENA" presentationName="Screen Drafts" briefDescription="Screen drafts are low-cost renditions of the way screens will look, used to explore&#xD;&#xA;the ways that users might interact with the system, and invent better ways for them to&#xD;&#xA;get their goals accomplished">
+            <methodElementProperty xmi:id="_4bRhEPs6EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_E7LXUPs7EeiOY5TxRmxENA" name="System Architecture" guid="_E7LXUPs7EeiOY5TxRmxENA" presentationName="System Architecture" briefDescription="The system architecture description is text and/or drawings showing the major&#xD;&#xA;components and interfaces of the system. There is a lot of controversy about just what&#xD;&#xA;constitutes an architecture, when it should be made and how it should documented, all&#xD;&#xA;of which are out of scope of this book to decide. There does need to be some&#xD;&#xA;description of the system's main design to unify the team members work and to&#xD;&#xA;educate follow-on system designers. On larger projects, two architectures may occur:&#xD;&#xA;the technical (infrastructure) architecture and the domain architecture. Domain Driven&#xD;&#xA;Design (Evans 2003) has examples of domain architectures.">
+            <methodElementProperty xmi:id="_HACLAPs7EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_NadQwPs7EeiOY5TxRmxENA" name="Common Domain Model" guid="_NadQwPs7EeiOY5TxRmxENA" presentationName="Common Domain Model" briefDescription="The common domain model is a typically a drawing, either a database schema or a&#xD;&#xA;class diagram, showing the principal entities or classes used in the system. Some teams&#xD;&#xA;still prefer straight text to describe their domain model.">
+            <methodElementProperty xmi:id="_OILSYPs7EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_iOfjYPsaEeiOY5TxRmxENA" name="The Delivery Cycle" guid="_iOfjYPsaEeiOY5TxRmxENA" briefDescription="This cycle has four parts namely: recalibration of the release scheme, a series of one or more iterations, presentation to real users, and a completion ritual that reflects on both the product created and the methods employed. This is where a valuable product is presented to the users and feedback about the product is obtained from them.">
+          <methodElementProperty xmi:id="_iOfjYfsaEeiOY5TxRmxENA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_5nTc4PsaEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ZhjZsPsgEeiOY5TxRmxENA" name="A recalibration of the release plan" guid="_ZhjZsPsgEeiOY5TxRmxENA" presentationName="A recalibration of the release plan" briefDescription="On the first delivery cycle, it should, of course, not be necessary to recalibrate the plan just created. After the first delivery, however, the team members will find themselves with new and valuable information to feed into the project plan. " output="_r1oZwPs7EeiOY5TxRmxENA _xGJagPsiEeiOY5TxRmxENA _N85aAPs8EeiOY5TxRmxENA _MSaOIPs8EeiOY5TxRmxENA _Td9BEPs3EeiOY5TxRmxENA">
+            <methodElementProperty xmi:id="_j3Wv4PsgEeiOY5TxRmxENA" name="me_edited" value="true"/>
+            <presentation xmi:id="--2k_hh3Kbkgit4A6W2MQaw" href="uma://--2k_hh3Kbkgit4A6W2MQaw#--2k_hh3Kbkgit4A6W2MQaw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_p_yGsPsgEeiOY5TxRmxENA" name="Iterations" guid="_p_yGsPsgEeiOY5TxRmxENA" presentationName="Iterations" briefDescription="A series of one or more iterations, each resulting in integrated, tested code." mandatoryInput="_xGJagPsiEeiOY5TxRmxENA _Td9BEPs3EeiOY5TxRmxENA _rTc2kPs3EeiOY5TxRmxENA _A7ojIPs8EeiOY5TxRmxENA _yiqScPs7EeiOY5TxRmxENA _Ax-qIPs3EeiOY5TxRmxENA _Ikm48Ps3EeiOY5TxRmxENA _0gCz4Ps1EeiOY5TxRmxENA _mAZWoPs5EeiOY5TxRmxENA _wrhj8Ps2EeiOY5TxRmxENA _ACyhgPs6EeiOY5TxRmxENA" output="_xGJagPsiEeiOY5TxRmxENA _rTc2kPs3EeiOY5TxRmxENA _A7ojIPs8EeiOY5TxRmxENA _yiqScPs7EeiOY5TxRmxENA _Ax-qIPs3EeiOY5TxRmxENA _Ikm48Ps3EeiOY5TxRmxENA _0gCz4Ps1EeiOY5TxRmxENA _mAZWoPs5EeiOY5TxRmxENA _wrhj8Ps2EeiOY5TxRmxENA">
+            <methodElementProperty xmi:id="_uD74oPsgEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xGJagPsiEeiOY5TxRmxENA" name="Release Plan" guid="_xGJagPsiEeiOY5TxRmxENA" presentationName="Release Plan">
+            <methodElementProperty xmi:id="_g-Cz4Ps1EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Td9BEPs3EeiOY5TxRmxENA" name="Viewing Schedule" guid="_Td9BEPs3EeiOY5TxRmxENA" presentationName="Viewing Schedule" briefDescription="The viewing schedule is a listing of when, during the iteration or delivery cycle the&#xD;&#xA;Ambassador User or other users should plan to come and see the new growth of the&#xD;&#xA;system. This work product is needed when the users' time is not so easy to get, they&#xD;&#xA;have to travel far, or there are many of them. It is not needed if the Ambassador User&#xD;&#xA;visits the project every day or every week.">
+            <methodElementProperty xmi:id="_UeNkMPs3EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_r1oZwPs7EeiOY5TxRmxENA" name="Delivery Package" guid="_r1oZwPs7EeiOY5TxRmxENA" presentationName=" Delivery Package">
+            <methodElementProperty xmi:id="_tKZ0UPs7EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_MSaOIPs8EeiOY5TxRmxENA" name="User Manual" guid="_MSaOIPs8EeiOY5TxRmxENA" presentationName="User Manual">
+            <methodElementProperty xmi:id="_NCbV0Ps8EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_N85aAPs8EeiOY5TxRmxENA" name="Training Manual" guid="_N85aAPs8EeiOY5TxRmxENA" presentationName="Training Manual">
+            <methodElementProperty xmi:id="_QEYq8Ps8EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_kL9V0Ps_EeiOY5TxRmxENA" name="Completion ritual" guid="_kL9V0Ps_EeiOY5TxRmxENA" presentationName="Completion ritual" briefDescription="Reflection on both the product being created and the conventions being used." optionalInput="_xGJagPsiEeiOY5TxRmxENA _Td9BEPs3EeiOY5TxRmxENA">
+            <methodElementProperty xmi:id="_lfdlEPs_EeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_8LphwPtCEeiOY5TxRmxENA" name="new_role" guid="_8LphwPtCEeiOY5TxRmxENA" presentationName="New Role"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_BOUDAPtGEeiOY5TxRmxENA" name="Delivery to Real Users" guid="_BOUDAPtGEeiOY5TxRmxENA" presentationName="Delivery to Real Users" briefDescription="As described in Frequent Delivery, delivery in Crystal Clear means &quot;to a real user.&quot; In differing circumstances, that might mean full deployment with training classes, or it many be to only one person, a friendly user willing to give the budding system a walk through, either out of curiosity or just as a courtesy to the team." output="_r1oZwPs7EeiOY5TxRmxENA _N85aAPs8EeiOY5TxRmxENA _MSaOIPs8EeiOY5TxRmxENA">
+            <methodElementProperty xmi:id="_DVGJUPtGEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mD58cPsfEeiOY5TxRmxENA" name="The work week" guid="_mD58cPsfEeiOY5TxRmxENA">
+          <methodElementProperty xmi:id="_mD58cfsfEeiOY5TxRmxENA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_pHbX0PsfEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_oiaUUPshEeiOY5TxRmxENA" name="Team-leaders' report meeting" guid="_oiaUUPshEeiOY5TxRmxENA" presentationName="Team-leaders' report meeting">
+            <methodElementProperty xmi:id="_-NPpEPshEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_uRQGcPshEeiOY5TxRmxENA" name="Reflection Workshop" guid="_uRQGcPshEeiOY5TxRmxENA" presentationName="Reflection Workshop" performedBy="_54dLYPsnEeiOY5TxRmxENA" optionalInput="_hANl0PsvEeiOY5TxRmxENA">
+            <methodElementProperty xmi:id="_92WMAPshEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_H5W3IPskEeiOY5TxRmxENA" name="Burn Charts" guid="_H5W3IPskEeiOY5TxRmxENA" presentationName="Burn Charts">
+            <methodElementProperty xmi:id="_ItPyMPskEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mHQZIPskEeiOY5TxRmxENA" name="Methodology Shaping" guid="_mHQZIPskEeiOY5TxRmxENA" presentationName="Methodology Shaping" briefDescription="With this little technique, you will build a small library of experiences in your&#xD;&#xA;organization that show the strengths, weaknesses and themes of your organization.&#xD;&#xA;When you go into the methodology shaping workshop, you will examine them and&#xD;&#xA;discuss how to take advantage of the strengths and how to compensate for, or avoid,&#xD;&#xA;the weaknesses.">
+            <methodElementProperty xmi:id="_oFg1kPskEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_hANl0PsvEeiOY5TxRmxENA" name="Reflection Workshop Results" guid="_hANl0PsvEeiOY5TxRmxENA" presentationName="Reflection Workshop Results" briefDescription="The Reflection Workshop Results is an information radiator that shows what the&#xD;&#xA;team has concluded after its reflection workshop">
+            <methodElementProperty xmi:id="_h5D5YPsvEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_lY0k0PsvEeiOY5TxRmxENA" name="Team as a Group" guid="_lY0k0PsvEeiOY5TxRmxENA" presentationName="Team as a Group" briefDescription="Crystal Clear only names the above three roles specifically. There will be other&#xD;&#xA;people on the project. How they divide up the rest of the project roles is up to them. In&#xD;&#xA;particular, someone, or several people, will have to capture the requirements in use&#xD;&#xA;case or user story form. Also, someone will have to act as coordinator. Perhaps the&#xD;&#xA;Lead Designer can off-load this onto someone else who has good communications skill.">
+            <methodElementProperty xmi:id="_pVgc0PsvEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_msUnUPsfEeiOY5TxRmxENA" name="The work day" guid="_msUnUPsfEeiOY5TxRmxENA">
+          <methodElementProperty xmi:id="_msVOYPsfEeiOY5TxRmxENA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_o4gyEPsfEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_fqw-MPshEeiOY5TxRmxENA" name="Daily stand-up meeting" guid="_fqw-MPshEeiOY5TxRmxENA" presentationName="Daily stand-up meeting" briefDescription="The daily stand-up meeting is a short meeting to trade notes on status, progress and&#xD;&#xA;problems. The key word is short. The meeting is not used to discuss problems, but to&#xD;&#xA;identify problems. If you find you are discussing how to solve problems in your daily&#xD;&#xA;stand-up, raise your hand and ask that problem resolution be dealt with right after the&#xD;&#xA;stand-up meeting, with only those people who have to be there">
+            <methodElementProperty xmi:id="__B9DgPshEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_jLaacPshEeiOY5TxRmxENA" name="Design episodes" guid="_jLaacPshEeiOY5TxRmxENA" presentationName="Design episodes">
+            <methodElementProperty xmi:id="_-0nLEPshEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_kG2H8PshEeiOY5TxRmxENA" name="Code Integration" guid="_kG2H8PshEeiOY5TxRmxENA" presentationName="Code Integration">
+            <methodElementProperty xmi:id="_-jXDAPshEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DrSmIPsiEeiOY5TxRmxENA" name="The Development Episode" guid="_DrSmIPsiEeiOY5TxRmxENA" presentationName="The Development Episode" briefDescription="Episode describes the basic unit of programmer work in agile development. During an episode, a person picks up some small design assignment, programs it to completion (ideally with unit tests), and checks it in to the configuration management system. This might take between fifteen minutes and several days, depending on the programmer and the project conventions. Keeping the episode less than one day in length generally works best.">
+            <methodElementProperty xmi:id="_HjVOsPsiEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_5sm6APsiEeiOY5TxRmxENA" name="The Reflection Workshop Results" guid="_5sm6APsiEeiOY5TxRmxENA" presentationName="The Reflection Workshop Results">
+            <methodElementProperty xmi:id="_6i8sIPsiEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_EeujUPskEeiOY5TxRmxENA" name="Burn Charts" guid="_EeujUPskEeiOY5TxRmxENA" presentationName="Burn Charts" briefDescription="An efficient way to planning and reporting progress, particularly suited for use on Information Radiators.">
+            <methodElementProperty xmi:id="_Gm37kPskEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_DB9UQPstEeiOY5TxRmxENA" name="The Development Episode" guid="_DB9UQPstEeiOY5TxRmxENA" presentationName="The Development Episode">
+          <methodElementProperty xmi:id="_DB9UQfstEeiOY5TxRmxENA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_D1cmsPstEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Tl-gMPstEeiOY5TxRmxENA" name="Small design assignment" guid="_Tl-gMPstEeiOY5TxRmxENA" presentationName="Small design assignment">
+            <methodElementProperty xmi:id="_U07moPstEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WzCSEPstEeiOY5TxRmxENA" name="Programs it to completion" guid="_WzCSEPstEeiOY5TxRmxENA" presentationName="Programs it to completion" briefDescription="(ideally with unit tests)">
+            <methodElementProperty xmi:id="_YLFqIPstEeiOY5TxRmxENA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Cl-OzfsgEeiOYpTxRmxENA" name="CapabilityPatterns" guid="_Cl-OzfsgEeiOYpTxRmxENA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Cl-OzvsgEeiOYpTxRmxENA" name="DeliveryProcesses" guid="_Cl-OzvsgEeiOYpTxRmxENA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_s7GngPtQEeiOY5TxRmxENA" href="uma://_s7GngPtQEeiOY5TxRmxENA#_s7GngPtQEeiOY5TxRmxENA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Cl-Oz_sgEeiOYpTxRmxENA" name="ProcessContributions" guid="_Cl-Oz_sgEeiOYpTxRmxENA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

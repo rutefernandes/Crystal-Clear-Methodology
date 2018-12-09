@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-1VZ1FCYzOdt20cWKX3i7Mw" name="CrystalClear,_s7GngftQEeiOY5TxRmxENA" guid="-1VZ1FCYzOdt20cWKX3i7Mw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-fkqx6WFDZ1B04cvIH8mnlw" name="Completion ritual,_bSGpIPtTEeiOY5TxRmxENA" guid="-fkqx6WFDZ1B04cvIH8mnlw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-xHZoCnRlLzD1-SxG3M71Gw" name="The Ambassador User,_aYxNYftTEeiOY5TxRmxENA" guid="-xHZoCnRlLzD1-SxG3M71Gw">
+    <refinedDescription>The system will be better suited to what the users need if the developers have access to an expert on system usage. The&#xD;
+value the system brings to the organization is very sensitive to the information the developers get about the usage&#xD;
+context. That means it is important that the team has easy access to proper usage experts. How much of that user's time&#xD;
+does the team need? It would be nice to have the expert user available to the team the whole time, of course. That is&#xD;
+rarely practical. Some methodologies suggest or require the user expert be present 50% of the time. That would also be&#xD;
+wonderful, of course, but is usually also impractical. My experience is that if the team can phone the Ambassador User&#xD;
+periodically during the week to ask questions, and gets a few hours (even as low as two hours) of dedicated time each week,&#xD;
+they can work through their questions, get good requirements in</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-n11oHJVJtkObizmpegcdGQ" name="The Executive Sponsor,_aYxNY_tTEeiOY5TxRmxENA" guid="-n11oHJVJtkObizmpegcdGQ">
+    <refinedDescription>The Executive Sponsor is the person who ultimately cares that the project gets done. This person provides the money – or at&#xD;
+least arranges for it to show up – and provides essential direction to the group. This person highlights the priorities the&#xD;
+group needs to be aware of, and gets the project not only monetary support, but also logistical and emotional support.&#xD;
+Often, the Executive Sponsor is also the domain expert. During the project, the Executive Sponsor needs to remind the&#xD;
+development team of their true goal and keep them appraised of any changes in business direction that affects the project's&#xD;
+direction. In return, the team needs to keep the Executive Sponsor appraised of the project's progress (burn charts are&#xD;
+excellent for this).</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-3cSN442xMsReSOiOJyFGrA" name="The Lead Designer,_aYx0cftTEeiOY5TxRmxENA" guid="-3cSN442xMsReSOiOJyFGrA">
+    <refinedDescription>The person given the assignment of Lead Designer has a complicated job description, which is not normally spelled out in&#xD;
+advance. This person is often the best designer on the team, a person who could, in principle, design the entire system.&#xD;
+This person is also supposed to train the younger members of the team, talk with the Executive Sponsor and end users, build&#xD;
+a project plan, and manage the development of the project while also designing the most difficult part of the system. It is&#xD;
+an impossible job description, except that it is carried out successfully by many (overworked) people around the world. The&#xD;
+best thing the Executive Sponsor can do for the Lead Designer is to provide a second expert developer. This second expert&#xD;
+developer should be the one who handles the most difficult design tasks, because this second expert developer is not so&#xD;
+likely to get caught up in meetings about users, plans, status, interfaces and so on</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-3PTzIrpKv2zJ_H-Y8vPxPA" name="Team as a Group,_aYx0c_tTEeiOY5TxRmxENA" guid="-3PTzIrpKv2zJ_H-Y8vPxPA">
+    <refinedDescription>Crystal Clear only names the above three roles specifically. There will be other people on the project. How they divide up&#xD;
+the rest of the project roles is up to them. In particular, someone, or several people, will have to capture the&#xD;
+requirements in use case or user story form. Also, someone will have to act as coordinator. Perhaps the Lead Designer can&#xD;
+off-load this onto someone else who has good communications skill.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-LEEOD9e92pb32ekehIDfkA" name="Team Structure and Conventions,_aYybivtTEeiOY5TxRmxENA" guid="-LEEOD9e92pb32ekehIDfkA">
+    <refinedDescription>&lt;p>&#xD;
+    Team structure is an allocation of people to roles. Team conventions is a collection of rules, practices and&#xD;
+    conventions the team agrees to adopt.&#xD;
+&lt;/p>&#xD;
+&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-6uV4GNfgXNs1jrnoyxN1vg" name="A recalibration of the release plan,_fRyx0PtTEeiOY5TxRmxENA" guid="-6uV4GNfgXNs1jrnoyxN1vg"/>
+</xmi:XMI>

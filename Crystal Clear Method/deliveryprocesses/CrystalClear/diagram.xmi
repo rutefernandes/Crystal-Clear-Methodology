@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <uml:Activity xmi:id="_C6o8wPtYEeiOY5TxRmxENA" name="CrystalClear">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_C6pj0PtYEeiOY5TxRmxENA" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_C6pj0ftYEeiOY5TxRmxENA" key="uri" value="uma://_s7GngPtQEeiOY5TxRmxENA#_s7GngftQEeiOY5TxRmxENA"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_C6pj0vtYEeiOY5TxRmxENA" key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_DBWBsPtYEeiOY5TxRmxENA" name="Project Cycle" outgoing="_DBcIUftYEeiOY5TxRmxENA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_DBWBsftYEeiOY5TxRmxENA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_DBWowPtYEeiOY5TxRmxENA" key="uri" value="uma://_s7GngPtQEeiOY5TxRmxENA#_sImhoPtSEeiOY5TxRmxENA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_DBWowftYEeiOY5TxRmxENA" key="type" value="Phase"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_DBWowvtYEeiOY5TxRmxENA" name="Delivery Cycle" outgoing="_DBbhQPtYEeiOY5TxRmxENA" incoming="_DBcIUftYEeiOY5TxRmxENA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_DBWow_tYEeiOY5TxRmxENA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_DBWoxPtYEeiOY5TxRmxENA" key="uri" value="uma://_s7GngPtQEeiOY5TxRmxENA#_5pbpYPtSEeiOY5TxRmxENA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_DBWoxftYEeiOY5TxRmxENA" key="type" value="Phase"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_DBWoxvtYEeiOY5TxRmxENA" name="Iteration Cycle" outgoing="_DBcIUPtYEeiOY5TxRmxENA" incoming="_DBbhQPtYEeiOY5TxRmxENA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_DBWox_tYEeiOY5TxRmxENA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_DBWoyPtYEeiOY5TxRmxENA" key="uri" value="uma://_s7GngPtQEeiOY5TxRmxENA#_79SiYPtSEeiOY5TxRmxENA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_DBWoyftYEeiOY5TxRmxENA" key="type" value="Phase"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_DBWoyvtYEeiOY5TxRmxENA" name="Integration Cycle" incoming="_DBcIUPtYEeiOY5TxRmxENA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_DBWoy_tYEeiOY5TxRmxENA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_DBXP0PtYEeiOY5TxRmxENA" key="uri" value="uma://_s7GngPtQEeiOY5TxRmxENA#__SNPwftSEeiOY5TxRmxENA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_DBXP0ftYEeiOY5TxRmxENA" key="type" value="Phase"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_DBbhQPtYEeiOY5TxRmxENA" source="_DBWowvtYEeiOY5TxRmxENA" target="_DBWoxvtYEeiOY5TxRmxENA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_DBcIUPtYEeiOY5TxRmxENA" source="_DBWoxvtYEeiOY5TxRmxENA" target="_DBWoyvtYEeiOY5TxRmxENA"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_DBcIUftYEeiOY5TxRmxENA" source="_DBWBsPtYEeiOY5TxRmxENA" target="_DBWowvtYEeiOY5TxRmxENA"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_C60i8PtYEeiOY5TxRmxENA" type="AD" element="_C6o8wPtYEeiOY5TxRmxENA" name="CrystalClear" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_C60i8ftYEeiOY5TxRmxENA"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_C60i8vtYEeiOY5TxRmxENA"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_C60i8_tYEeiOY5TxRmxENA"/>
+  </notation:Diagram>
+</xmi:XMI>

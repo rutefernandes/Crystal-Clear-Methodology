@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9YR_viZh-IYhT5rapqFYEQ" name="new_artifact,_FGNOgPsuEeiOY5TxRmxENA" guid="-9YR_viZh-IYhT5rapqFYEQ" changeDate="2018-12-08T19:16:04.587-0200">
+  <purpose>The priorities might be chosen from: hitting a particular delivery date, cost, ease of use, ease of learning, speed in use,&#xD;
+correctness, performance, ease of maintenance, design flexibility, legal liability protection (you may come up with other&#xD;
+choices for your project). The mission statement makes clear to the team what can be sacrificed if necessary to preserve&#xD;
+the top priorities</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

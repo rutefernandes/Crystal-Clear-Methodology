@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gEgvUJA0iF20D4ckuDpTkA" name="new_artifact,_8-56wPsuEeiOY5TxRmxENA" guid="-gEgvUJA0iF20D4ckuDpTkA" changeDate="2018-12-08T19:19:56.024-0200">
+  <mainDescription>&lt;p>&#xD;
+    Team structure is an allocation of people to roles. Team conventions is a collection of rules, practices and&#xD;
+    conventions the team agrees to adopt.&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+  <purpose>The team needs to settle additional conventions, at least the following: allocation of people to roles, programming&#xD;
+conventions such as naming, formatting, commenting, code ownership conventions, design and code-reviewing conventions,&#xD;
+whether code reviews or pair programming or none, iteration length and forms of reporting status, frequency of user&#xD;
+viewing, configuration management conventions.</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

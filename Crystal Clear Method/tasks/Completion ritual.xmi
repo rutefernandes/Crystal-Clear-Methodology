@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-F895CEMjVXwBuf8mCHuziQ" name=",_mpslkPspEeiOY5TxRmxENA" guid="-F895CEMjVXwBuf8mCHuziQ">
+  <mainDescription>For the average project, the team is being assembled during the chartering period. The people doing the chartering have to&#xD;
+deal with a number of variables. The people may or may not know each other, or may show up at some point in the middle of&#xD;
+the project, needing time to learn to communicate with each other. If the project emerges from Exploratory 360° with a&#xD;
+positive result, the team has a sense of where the project is headed, what problem it is tackling, the technology to be&#xD;
+used, the project plan, and its business value. This creates an early alignment of goals and actions that strengthens the&#xD;
+team.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--2k_hh3Kbkgit4A6W2MQaw" name=",_ZhjZsPsgEeiOY5TxRmxENA" guid="--2k_hh3Kbkgit4A6W2MQaw" changeDate="2018-12-08T21:36:49.538-0200">
+  <mainDescription>On the first delivery cycle, it should, of course, not be necessary to recalibrate the plan just created. After the first&#xD;
+delivery, however, the team members will find themselves with new and valuable information to feed into the project plan.&#xD;
+They will have learned both how fast they really work and how mistaken their initial size estimates were. Furthermore, they&#xD;
+and their users will have learned more about what is really needed in the system. They have a choice: they can stick with&#xD;
+the original set of requirements and merely update the plan, or they can revisit both the requirements and the plan.</mainDescription>
+  <sections xmi:id="_YWHeUPtBEeiOY5TxRmxENA" name="Adjust the project's scope or time boundaries" guid="_YWHeUPtBEeiOY5TxRmxENA"/>
+  <sections xmi:id="_avyrcPtBEeiOY5TxRmxENA" name="Change of strategy " guid="_avyrcPtBEeiOY5TxRmxENA">
+    <sectionDescription>Come up with a more creative strategy to get the work done with the time and</sectionDescription>
+  </sections>
+  <sections xmi:id="_dMEgoPtBEeiOY5TxRmxENA" name="(OPTIONAL) replace the team" guid="_dMEgoPtBEeiOY5TxRmxENA"/>
+</org.eclipse.epf.uma:TaskDescription>

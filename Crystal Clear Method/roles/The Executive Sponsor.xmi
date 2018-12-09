@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VBuhSMrulynAJPWzaCdp1A" name="new_role,_Z7L9gPsnEeiOY5TxRmxENA" guid="-VBuhSMrulynAJPWzaCdp1A">
+  <mainDescription>The Executive Sponsor is the person who ultimately cares that the project gets done. This person provides the money – or at&#xD;
+least arranges for it to show up – and provides essential direction to the group. This person highlights the priorities the&#xD;
+group needs to be aware of, and gets the project not only monetary support, but also logistical and emotional support.&#xD;
+Often, the Executive Sponsor is also the domain expert. During the project, the Executive Sponsor needs to remind the&#xD;
+development team of their true goal and keep them appraised of any changes in business direction that affects the project's&#xD;
+direction. In return, the team needs to keep the Executive Sponsor appraised of the project's progress (burn charts are&#xD;
+excellent for this).</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

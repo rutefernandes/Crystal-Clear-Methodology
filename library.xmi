@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_wj3UMfsfEeiOYpTxRmxENA" guid="_wj3UMfsfEeiOYpTxRmxENA">
+    <subManagers xmi:id="_Cl-O0fsgEeiOYpTxRmxENA" href="uma://_Cl-OwPsgEeiOYpTxRmxENA#_Cl-O0fsgEeiOYpTxRmxENA"/>
+    <resourceDescriptors xmi:id="_wj3UMvsfEeiOYpTxRmxENA" id="_wj3UMPsfEeiOYpTxRmxENA" uri=""/>
+    <resourceDescriptors xmi:id="_Cl-O0vsgEeiOYpTxRmxENA" id="_Cl-OwPsgEeiOYpTxRmxENA" uri="Crystal%20Clear%20Method/plugin.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_wj3UMPsfEeiOYpTxRmxENA" name="Library1" guid="_wj3UMPsfEeiOYpTxRmxENA" briefDescription="Biblioteca base para aplicação da metologia crystal clear (crystal family)">
+    <methodElementProperty xmi:id="_wlWh8PsfEeiOYpTxRmxENA" name="library_synFree" value="true"/>
+    <methodPlugins xmi:id="_Cl-OwPsgEeiOYpTxRmxENA" href="uma://_Cl-OwPsgEeiOYpTxRmxENA#_Cl-OwPsgEeiOYpTxRmxENA"/>
+  </org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>
